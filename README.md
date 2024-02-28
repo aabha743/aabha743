@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abha</h1>
 <h3 align="center">I am currently an Engineering student I am looking to build and collaborate on projects related to Data Science and Artificial Intelligence I am currently working on deep learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabha743" alt="aabha743" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abha-b-8a1316273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abha-b-8a1316273" height="30" width="40" /></a>
