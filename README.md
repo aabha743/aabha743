@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abha</h1>
 <h3 align="center">I am currently an Engineering student I am looking to build and collaborate on projects related to Data Science and Artificial Intelligence I am currently working on deep learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aabha743&label=Profile%20views&color=0e75b6&style=flat" alt="aabha743" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabha743" alt="aabha743" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
