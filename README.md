@@ -16,6 +16,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aabha743&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabha743&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabha743&show_icons=true&locale=en&layout=compact" alt="aabha743" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aabha743&" alt="aabha743" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aabha743&theme=radical&no-frame=false&no-bg=true&margin-w=0)
