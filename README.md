@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abha</h1>
-<h3 align="center">I am currently an Engineering student I am looking to build and collaborate on projects related to Data Science and Artificial Intelligence I am currently working on deep learning</h3>
+<h3 align="center">I am currently an Engineering student.<br>I am looking to build and collaborate on projects related to Data Science and Artificial Intelligence.<br> I am currently working on deep learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
