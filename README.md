@@ -16,8 +16,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aabha743&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabha743&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-# Learning Stats
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/673b7b11f20970fd48aa3b06?variant=dark" alt="roadmap.sh"/></a>
+
 
 
 
